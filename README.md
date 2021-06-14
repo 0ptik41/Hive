@@ -6,7 +6,7 @@ A test to develop a cool personal dashboard system for data collected in HoneyPo
 - Automatically updates local copies of log data when
   copies on remote server are modified
 - View daily traffic for any log file on World Map 
-
+- Offline GeoIP lookup (download IP2Location database into dash/Data/IP)
 
 An example of what the Dashboard looks like ![dash](https://raw.githubusercontent.com/0ptik41/Hive/master/honeydata.gif)
 
@@ -17,3 +17,5 @@ There are a lot of things I want to add. Only just started experimenting with th
 - More charts on statistics about visitors
   o By IP: Time of day, types of payloads, etc.
 - Index requests that match real IOCs,
+
+![map](https://raw.githubusercontent.com/0ptik41/Hive/master/exMap.png)
